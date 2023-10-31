@@ -1,5 +1,6 @@
 # Weather Chat Mobile App
 Chat client and server project for TCSS 450.
+Click here for demo video: https://www.youtube.com/watch?v=8IAD4L3T-H8
 
 Home Page
 
@@ -13,11 +14,9 @@ Register page
 
 ![Register Page](ProjectPictures/Register.JPG) 
 
-Contacts page and Chat page with the users added to your contacts list
+Contacts page and Chat page 
 
-![Register Page](ProjectPictures/Contacts.JPG) ![Register Page](ProjectPictures/ChatPage1.JPG) 
+![Contacts Page](ProjectPictures/Contacts.JPG) ![Chat Page](ProjectPictures/ChatsPage1.JPG) 
 
-![Register Page](ProjectPictures/ChatPage4.JPG) 
+![Chat Page2](ProjectPictures/ChatPage4.jpg) 
 
-
-Click here for demo video: https://www.youtube.com/watch?v=8IAD4L3T-H8
