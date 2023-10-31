@@ -2,6 +2,7 @@
 Chat client and server project for TCSS 450.
 Click here for demo video: https://www.youtube.com/watch?v=8IAD4L3T-H8
 
-![Alt Text](ProjectPictures/HomePage.JPG)
+![Home Page](ProjectPictures/HomePage.JPG)
+
 
 
