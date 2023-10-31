@@ -20,3 +20,6 @@ Contacts page and Chat page
 
 ![Chat Page2](ProjectPictures/ChatPage4.jpg) 
 
+Weather page with forecast for current day based on zip code
+
+![Weather page](ProjectPictures/WeatherPage1.jpg) ![Weather page](ProjectPictures/WeatherPage2.jpg)
