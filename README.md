@@ -2,8 +2,9 @@
 Chat client and server project for TCSS 450.
 Home Page
 ![Home Page](ProjectPictures/HomePage.JPG)
-Login and Register pages
+Login page
 ![Login Page](ProjectPictures/Login.JPG) 
+Register page
 ![Register Page](ProjectPictures/Register.JPG) 
 
 
